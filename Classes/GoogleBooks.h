@@ -3,7 +3,7 @@
 //  Barter
 //
 //  Created by byeong cheol lim on 11. 1. 19..
-//  Copyright 2011 ocbs. All rights reserved.
+//  Copyright 2011 ZenCom. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
