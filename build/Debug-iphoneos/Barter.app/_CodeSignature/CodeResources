@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Barter.momd/Barter.mom</key>
+		<data>
+		ly+818NrQOA0O58frdswM6CtScg=
+		</data>
+		<key>Fake.plist</key>
+		<data>
+		asiMcIEJxHtrArkzN1yGOeWo5e4=
+		</data>
+		<key>HaveViewController.nib</key>
+		<data>
+		u3DIDRmpBId3UeDgW1BZotpYVUs=
+		</data>
+		<key>HistoryViewController.nib</key>
+		<data>
+		jjzQgYLxJiaFhVxCaMYtIb5YQnw=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		wUJtD2PJnNjKPKEUjFeShA77GHY=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>WantViewController.nib</key>
+		<data>
+		kCdG8zeoGY/AeylHT1gLuqy8j9w=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		Hn/RxPBPCd0iknXuVRBPgpP8jqA=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

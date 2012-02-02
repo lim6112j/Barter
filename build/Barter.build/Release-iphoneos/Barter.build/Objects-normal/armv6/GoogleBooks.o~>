@@ -1,0 +1,4 @@
+/Users/lim6112j/Documents/iPhone Development/Barter/Classes/GoogleBooks.m: In function '-[GoogleBooks bookSearch:]':
+/Users/lim6112j/Documents/iPhone Development/Barter/Classes/GoogleBooks.m:19: error: 'searchAddress' undeclared (first use in this function)
+/Users/lim6112j/Documents/iPhone Development/Barter/Classes/GoogleBooks.m:19: error: (Each undeclared identifier is reported only once
+/Users/lim6112j/Documents/iPhone Development/Barter/Classes/GoogleBooks.m:19: error: for each function it appears in.)

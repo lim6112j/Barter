@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>Barter</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>Barter</key>
+		<dict>
+			<key>Book</key>
+			<data>
+			MslMF0rF0N3ysR3clRQkrlXNgauqH3AMrbzBJ86/ES4=
+			</data>
+			<key>Havit</key>
+			<data>
+			xj1066EFC+CIkUXAF62SZxw2apPUQ63c0N8OaucsPZI=
+			</data>
+			<key>Person</key>
+			<data>
+			T6IX2rxvALY/jUtyfG66lZwxmEZKjVq7PFNVrxD5pW4=
+			</data>
+			<key>Wantit</key>
+			<data>
+			mL11Ffzc0Dsp4wvD+8LM2hNWqgIqATFYReXBMmM2hxM=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

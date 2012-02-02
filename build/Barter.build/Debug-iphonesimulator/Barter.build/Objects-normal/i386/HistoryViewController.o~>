@@ -1,0 +1,11 @@
+/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m: In function '-[HistoryViewController viewDidLoad]':
+/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m:20: error: 'BarterAppDelegate' undeclared (first use in this function)
+/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m:20: error: (Each undeclared identifier is reported only once
+/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m:20: error: for each function it appears in.)
+/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m:20: error: 'appDelegate' undeclared (first use in this function)
+/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m:20: error: expected expression before ')' token
+/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m:27: error: 'fRC' undeclared (first use in this function)
+/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m: In function '-[HistoryViewController numberOfSectionsInTableView:]':
+/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m:71: error: 'fRC' undeclared (first use in this function)
+/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m: In function '-[HistoryViewController tableView:numberOfRowsInSection:]':
+/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m:86: error: 'fRC' undeclared (first use in this function)

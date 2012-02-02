@@ -1,0 +1,1294 @@
+TBarter
+v7
+r0
+t317281505.632080
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC10FA70000000000300DE0
+t1287720871
+s3149280
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC10F8D000000000000046B
+t1287720845
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/Barter.xcdatamodeld
+c000000004D3540E80000000000000088
+t1295335656
+s136
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/Barter_Prefix.pch
+c000000004D2AD0850000000000000160
+t1294651525
+s352
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/Book.h
+c000000004D354152000000000000026B
+t1295335762
+s619
+i<CoreData/CoreData.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/Book.m
+c000000004D3541520000000000000151
+t1295335762
+s337
+i"Book.h"
+i"Person.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/Classes/BarterAppDelegate.h
+c000000004D3541FF0000000000000451
+t1295335935
+s1105
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+i"Book.h"
+i"Person.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/Classes/BarterAppDelegate.m
+c000000004D354A680000000000003B01
+t1295338088
+s15105
+i"BarterAppDelegate.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/Classes/GoogleBooks.h
+c000000004D36A8CD000000000000012C
+t1295427789
+s300
+i<Foundation/Foundation.h>
+i"JSON.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/Classes/GoogleBooks.m
+c000000004D3912E700000000000003C1
+t1295586023
+s961
+i"GoogleBooks.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/Fake.plist
+c000000004D3544B8000000000000068A
+t1295336632
+s1674
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.h
+c000000004D365F5F00000000000001CF
+t1295408991
+s463
+i<UIKit/UIKit.h>
+i"BarterAppDelegate.h"
+i"Person.h"
+i"Book.h"
+i"SearchModalViewController.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.m
+c000000004D365F5F0000000000001BFE
+t1295408991
+s7166
+i"HaveViewController.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.xib
+c000000004D2B1CD800000000000043E7
+t1294671064
+s17383
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/Havit.h
+c000000004D32B42F0000000000000246
+t1295168559
+s582
+i<CoreData/CoreData.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/Havit.m
+c000000004D32B42F000000000000010B
+t1295168559
+s267
+i"Havit.h"
+i"Book.h"
+i"Person.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.h
+c000000004D2B0DA9000000000000012A
+t1294667177
+s298
+i<UIKit/UIKit.h>
+i"BarterAppDelegate.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m
+c000000004D2B0D94000000000000163D
+t1294667156
+s5693
+i"HistoryViewController.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.xib
+c000000004D2AEED60000000000001C8A
+t1294659286
+s7306
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/JSON/JSON.h
+c000000004B74DB5500000000000008F9
+t1265949525
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSObject+SBJSON.h
+c000000004B74DB550000000000000A01
+t1265949525
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSObject+SBJSON.m
+c000000004B74DB55000000000000089E
+t1265949525
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSString+SBJSON.h
+c000000004B74DB550000000000000916
+t1265949525
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSString+SBJSON.m
+c000000004B74DB55000000000000087D
+t1265949525
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJSON.h
+c000000004B74DB550000000000000AED
+t1265949525
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJSON.m
+c000000004B74DB550000000000001ABC
+t1265949525
+s6844
+i"SBJSON.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonBase.h
+c000000004B74DB550000000000000B82
+t1265949525
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonBase.m
+c000000004B74DB550000000000000AC1
+t1265949525
+s2753
+i"SBJsonBase.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonParser.h
+c000000004B74DB550000000000000C0B
+t1265949525
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonParser.m
+c000000004B74DB5500000000000036CF
+t1265949525
+s14031
+i"SBJsonParser.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonWriter.h
+c000000004B74DB550000000000001140
+t1265949525
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonWriter.m
+c000000004B74DB550000000000001E83
+t1265949525
+s7811
+i"SBJsonWriter.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/MainWindow.xib
+c000000004D3642960000000000009683
+t1295401622
+s38531
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/Person.h
+c000000004D35415200000000000002FB
+t1295335762
+s763
+i<CoreData/CoreData.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/Person.m
+c000000004D35415200000000000000FD
+t1295335762
+s253
+i"Person.h"
+i"Book.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.h
+c000000004D391D310000000000000404
+t1295588657
+s1028
+i<UIKit/UIKit.h>
+i"GoogleBooks.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.m
+c000000004D391D49000000000000134B
+t1295588681
+s4939
+i"SearchModalViewController.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.xib
+c000000004D391CFF0000000000004F4C
+t1295588607
+s20300
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.h
+c000000004D2B0DA90000000000000124
+t1294667177
+s292
+i<UIKit/UIKit.h>
+i"BarterAppDelegate.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.m
+c000000004D354E4900000000000019C4
+t1295339081
+s6596
+i"WantViewController.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.xib
+c000000004D3646B400000000000045DC
+t1295402676
+s17884
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/Wantit.h
+c000000004D32B42F0000000000000249
+t1295168559
+s585
+i<CoreData/CoreData.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/Wantit.m
+c000000004D32B42F000000000000010E
+t1295168559
+s270
+i"Wantit.h"
+i"Book.h"
+i"Person.h"
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter.xcent
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Barter
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Barter.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/BarterAppDelegate.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Book.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/GoogleBooks.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/HaveViewController.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Havit.o
+t1295331897
+s5524
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/HistoryViewController.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/NSObject+SBJSON.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/NSString+SBJSON.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Person.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SBJSON.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SBJsonBase.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SBJsonParser.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SBJsonWriter.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SearchModalViewController.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/WantViewController.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Wantit.o
+t1295331897
+s5536
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Barter
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Barter.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/BarterAppDelegate.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Book.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/GoogleBooks.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/HaveViewController.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Havit.o
+t1295331897
+s5524
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/HistoryViewController.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/NSObject+SBJSON.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/NSString+SBJSON.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Person.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SBJSON.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SBJsonBase.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SBJsonParser.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SBJsonWriter.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SearchModalViewController.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/WantViewController.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Wantit.o
+t1295331897
+s5536
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app.dSYM
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Barter
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Barter.momd
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Fake.plist
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/HaveViewController.nib
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/HistoryViewController.nib
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Info.plist
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/MainWindow.nib
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/PkgInfo
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/ResourceRules.plist
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/SearchModalViewController.nib
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/WantViewController.nib
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/photo1.jpg
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/photo2.jpg
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/photo3.jpg
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/photo4.jpg
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/photo5.jpg
+t2
+s0
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/main.m
+c000000004D2AD0850000000000000162
+t1294651525
+s354
+i<UIKit/UIKit.h>
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/photo1.jpg
+c000000004D352BF90000000000008333
+t1295330297
+s33587
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/photo2.jpg
+c000000004D352CD800000000000077EA
+t1295330520
+s30698
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/photo3.jpg
+c000000004D352CFB000000000000EF86
+t1295330555
+s61318
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/photo4.jpg
+c000000004D35300D00000000000095C3
+t1295331341
+s38339
+
+N/Users/lim6112j/Documents/iPhone Development/Barter/photo5.jpg
+c000000004D35302F0000000000007A90
+t1295331375
+s31376
+
+N/Users/lim6112j/Library/MobileDevice/Provisioning Profiles/98573A93-14A8-4A7F-B860-6AA40C007E27.mobileprovision
+c000000004D115A300000000000001D76
+t1292982832
+s7542
+
+N/var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch.gch
+t2
+s0
+
+NBarter-Info.plist
+c000000004D2AD085000000000000038D
+t1294651525
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317281505#317281505#0(0"0(0#1#0"8668386016#0"0#
+
+CCodeSign "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app"
+s317281482.404656
+e317281482.658265
+r1
+xCodeSign
+x/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app
+lSLF07#2@42"CodeSign build/Release-iphoneos/Barter.app317281482#317281482#0(0"0(0#0#85"/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app8659467424#713"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: byeong cheol lim (22G22XPJCM)" "--resource-rules=/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/ResourceRules.plist" --entitlements "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter.xcent" "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/BarterAppDelegate.o "/Users/lim6112j/Documents/iPhone Development/Barter/Classes/BarterAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317031924.019871
+e317031925.312824
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/BarterAppDelegate.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/Classes/BarterAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/lim6112j/Documents/iPhone Development/Barter/Classes/BarterAppDelegate.m317031924#317031925#0(0"0(0#0#79"/Users/lim6112j/Documents/iPhone Development/Barter/Classes/BarterAppDelegate.m8645499424#1945"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/Classes/BarterAppDelegate.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/BarterAppDelegate.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Book.o "/Users/lim6112j/Documents/iPhone Development/Barter/Book.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317028726.141374
+e317028726.203162
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Book.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/Book.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/lim6112j/Documents/iPhone Development/Barter/Book.m317028726#317028726#0(0"0(0#0#58"/Users/lim6112j/Documents/iPhone Development/Barter/Book.m8700238176#1911"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/Book.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Book.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/GoogleBooks.o "/Users/lim6112j/Documents/iPhone Development/Barter/Classes/GoogleBooks.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317281118.919476
+e317281119.035537
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/GoogleBooks.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/Classes/GoogleBooks.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/lim6112j/Documents/iPhone Development/Barter/Classes/GoogleBooks.m317281118#317281119#0(0"0(0#0#73"/Users/lim6112j/Documents/iPhone Development/Barter/Classes/GoogleBooks.m8646428640#1933"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/Classes/GoogleBooks.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/GoogleBooks.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/HaveViewController.o "/Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317281457.857704
+e317281458.401527
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/HaveViewController.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.m317281457#317281458#0(0"0(0#0#72"/Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.m8657512512#1939"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/HaveViewController.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Havit.o "/Users/lim6112j/Documents/iPhone Development/Barter/Havit.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317024696.996861
+e317024697.105383
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Havit.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/Havit.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/lim6112j/Documents/iPhone Development/Barter/Havit.m317024696#317024697#0(0"0(0#0#59"/Users/lim6112j/Documents/iPhone Development/Barter/Havit.m8673194304#1913"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/Havit.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Havit.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/HistoryViewController.o "/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317028736.155380
+e317028736.333243
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/HistoryViewController.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m317028736#317028736#0(0"0(0#0#75"/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m8700389088#1945"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/HistoryViewController.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/NSObject+SBJSON.o "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSObject+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317028725.442093
+e317028725.581069
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/NSObject+SBJSON.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSObject+SBJSON.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSObject+SBJSON.m317028725#317028725#0(0"0(0#0#74"/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSObject+SBJSON.m8620668512#1938"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSObject+SBJSON.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/NSObject+SBJSON.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/NSString+SBJSON.o "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSString+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317028725.510338
+e317028725.634275
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/NSString+SBJSON.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSString+SBJSON.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSString+SBJSON.m317028725#317028725#0(0"0(0#0#74"/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSString+SBJSON.m8684088384#1938"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSString+SBJSON.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/NSString+SBJSON.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Person.o "/Users/lim6112j/Documents/iPhone Development/Barter/Person.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317028726.203293
+e317028726.301706
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Person.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/Person.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/lim6112j/Documents/iPhone Development/Barter/Person.m317028726#317028726#0(0"0(0#0#60"/Users/lim6112j/Documents/iPhone Development/Barter/Person.m8699499840#1915"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/Person.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Person.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SBJSON.o "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317028725.581194
+e317028725.842387
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SBJSON.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJSON.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJSON.m317028725#317028725#0(0"0(0#0#65"/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJSON.m8695540000#1920"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJSON.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SBJSON.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SBJsonBase.o "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonBase.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317028725.634410
+e317028725.781383
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SBJsonBase.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonBase.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonBase.m317028725#317028725#0(0"0(0#0#69"/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonBase.m8699241600#1928"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonBase.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SBJsonBase.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SBJsonParser.o "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317028725.781505
+e317028726.216397
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SBJsonParser.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonParser.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonParser.m317028725#317028726#0(0"0(0#0#71"/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonParser.m8699162624#1932"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonParser.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SBJsonParser.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SBJsonWriter.o "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonWriter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317028725.842531
+e317028726.141248
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SBJsonWriter.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonWriter.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonWriter.m317028725#317028726#0(0"0(0#0#71"/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonWriter.m8698798048#1932"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonWriter.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SBJsonWriter.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SearchModalViewController.o "/Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317281481.631981
+e317281482.274007
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SearchModalViewController.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.m317281481#317281482#0(0"0(0#0#79"/Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.m8665317920#1953"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/SearchModalViewController.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/WantViewController.o "/Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317031925.006429
+e317031925.545759
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/WantViewController.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.m317031925#317031925#0(0"0(0#0#72"/Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.m8700139872#1939"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/WantViewController.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Wantit.o "/Users/lim6112j/Documents/iPhone Development/Barter/Wantit.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317024696.944380
+e317024697.081138
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Wantit.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/Wantit.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/lim6112j/Documents/iPhone Development/Barter/Wantit.m317024696#317024697#0(0"0(0#0#60"/Users/lim6112j/Documents/iPhone Development/Barter/Wantit.m8674401376#1915"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/Wantit.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Wantit.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/main.o "/Users/lim6112j/Documents/iPhone Development/Barter/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317028725.093496
+e317028725.441962
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/main.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/lim6112j/Documents/iPhone Development/Barter/main.m317028725#317028725#0(0"0(0#0#58"/Users/lim6112j/Documents/iPhone Development/Barter/main.m8621351904#1911"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/main.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/BarterAppDelegate.o "/Users/lim6112j/Documents/iPhone Development/Barter/Classes/BarterAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317031925.316990
+e317031925.870304
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/BarterAppDelegate.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/Classes/BarterAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/lim6112j/Documents/iPhone Development/Barter/Classes/BarterAppDelegate.m317031925#317031925#0(0"0(0#0#79"/Users/lim6112j/Documents/iPhone Development/Barter/Classes/BarterAppDelegate.m8705967840#1945"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/Classes/BarterAppDelegate.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/BarterAppDelegate.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Book.o "/Users/lim6112j/Documents/iPhone Development/Barter/Book.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317028727.351736
+e317028727.427534
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Book.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/Book.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/lim6112j/Documents/iPhone Development/Barter/Book.m317028727#317028727#0(0"0(0#0#58"/Users/lim6112j/Documents/iPhone Development/Barter/Book.m8700370816#1911"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/Book.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Book.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/GoogleBooks.o "/Users/lim6112j/Documents/iPhone Development/Barter/Classes/GoogleBooks.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317281119.446957
+e317281119.531543
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/GoogleBooks.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/Classes/GoogleBooks.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/lim6112j/Documents/iPhone Development/Barter/Classes/GoogleBooks.m317281119#317281119#0(0"0(0#0#73"/Users/lim6112j/Documents/iPhone Development/Barter/Classes/GoogleBooks.m8657501568#1933"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/Classes/GoogleBooks.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/GoogleBooks.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/HaveViewController.o "/Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317281458.394180
+e317281458.744272
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/HaveViewController.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.m317281458#317281458#0(0"0(0#0#72"/Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.m8669260384#1939"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/HaveViewController.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Havit.o "/Users/lim6112j/Documents/iPhone Development/Barter/Havit.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317024697.833537
+e317024697.927615
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Havit.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/Havit.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/lim6112j/Documents/iPhone Development/Barter/Havit.m317024697#317024697#0(0"0(0#0#59"/Users/lim6112j/Documents/iPhone Development/Barter/Havit.m8693828352#1913"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/Havit.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Havit.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/HistoryViewController.o "/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317028736.692005
+e317028736.889916
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/HistoryViewController.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m317028736#317028736#0(0"0(0#0#75"/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m8699474624#1945"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/HistoryViewController.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/NSObject+SBJSON.o "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSObject+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317028726.520985
+e317028726.664113
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/NSObject+SBJSON.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSObject+SBJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSObject+SBJSON.m317028726#317028726#0(0"0(0#0#74"/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSObject+SBJSON.m8697029440#1938"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSObject+SBJSON.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/NSObject+SBJSON.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/NSString+SBJSON.o "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSString+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317028726.540638
+e317028726.647441
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/NSString+SBJSON.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSString+SBJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSString+SBJSON.m317028726#317028726#0(0"0(0#0#74"/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSString+SBJSON.m8700311680#1938"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/NSString+SBJSON.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/NSString+SBJSON.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Person.o "/Users/lim6112j/Documents/iPhone Development/Barter/Person.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317028727.407271
+e317028727.478542
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Person.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/Person.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/lim6112j/Documents/iPhone Development/Barter/Person.m317028727#317028727#0(0"0(0#0#60"/Users/lim6112j/Documents/iPhone Development/Barter/Person.m8699432064#1915"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/Person.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Person.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SBJSON.o "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317028726.647562
+e317028726.984917
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SBJSON.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJSON.m317028726#317028727#0(0"0(0#0#65"/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJSON.m8611729536#1920"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJSON.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SBJSON.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SBJsonBase.o "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonBase.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317028726.664244
+e317028726.828220
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SBJsonBase.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonBase.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonBase.m317028726#317028726#0(0"0(0#0#69"/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonBase.m8663947424#1928"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonBase.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SBJsonBase.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SBJsonParser.o "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317028726.828349
+e317028727.407123
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SBJsonParser.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonParser.m317028726#317028727#0(0"0(0#0#71"/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonParser.m8699754560#1932"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonParser.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SBJsonParser.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SBJsonWriter.o "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonWriter.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317028726.985234
+e317028727.351597
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SBJsonWriter.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonWriter.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonWriter.m317028726#317028727#0(0"0(0#0#71"/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonWriter.m8698956192#1932"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/JSON/SBJsonWriter.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SBJsonWriter.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SearchModalViewController.o "/Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317281481.962418
+e317281482.260633
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SearchModalViewController.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.m317281481#317281482#0(0"0(0#0#79"/Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.m8646468672#1953"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/SearchModalViewController.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/WantViewController.o "/Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317031925.870439
+e317031926.120548
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/WantViewController.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.m317031925#317031926#0(0"0(0#0#72"/Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.m8706379040#1939"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/WantViewController.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Wantit.o "/Users/lim6112j/Documents/iPhone Development/Barter/Wantit.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317024697.756030
+e317024697.833249
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Wantit.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/Wantit.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/lim6112j/Documents/iPhone Development/Barter/Wantit.m317024697#317024697#0(0"0(0#0#60"/Users/lim6112j/Documents/iPhone Development/Barter/Wantit.m8694186528#1915"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/Wantit.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Wantit.o"0#
+
+CCompileC build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/main.o "/Users/lim6112j/Documents/iPhone Development/Barter/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317028726.216531
+e317028726.330198
+r1
+xCompileC
+xbuild/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/main.o
+x/Users/lim6112j/Documents/iPhone Development/Barter/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/lim6112j/Documents/iPhone Development/Barter/main.m317028726#317028726#0(0"0(0#0#58"/Users/lim6112j/Documents/iPhone Development/Barter/main.m8699100896#1911"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch -c "/Users/lim6112j/Documents/iPhone Development/Barter/main.m" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.xib"
+s317028722.217389
+e317028722.794553
+r1
+xCompileXIB
+x/Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.xib
+lSLF07#2@33"CompileXIB HaveViewController.xib317028722#317028722#0(0"0(0#0#74"/Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.xib8693941888#604"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/HaveViewController.nib" "/Users/lim6112j/Documents/iPhone Development/Barter/HaveViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.xib"
+s317028722.946097
+e317028723.518013
+r1
+xCompileXIB
+x/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.xib
+lSLF07#2@36"CompileXIB HistoryViewController.xib317028722#317028723#0(0"0(0#0#77"/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.xib8691792800#610"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/HistoryViewController.nib" "/Users/lim6112j/Documents/iPhone Development/Barter/HistoryViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Barter/MainWindow.xib"
+s317120103.668193
+e317120104.468078
+r1
+xCompileXIB
+x/Users/lim6112j/Documents/iPhone Development/Barter/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib317120103#317120104#0(0"0(0#0#66"/Users/lim6112j/Documents/iPhone Development/Barter/MainWindow.xib8625272032#588"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/MainWindow.nib" "/Users/lim6112j/Documents/iPhone Development/Barter/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.xib"
+s317281444.685864
+e317281445.209471
+r1
+xCompileXIB
+x/Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.xib
+lSLF07#2@40"CompileXIB SearchModalViewController.xib317281444#317281445#0(0"0(0#0#81"/Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.xib8670989920#618"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/SearchModalViewController.nib" "/Users/lim6112j/Documents/iPhone Development/Barter/SearchModalViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.xib"
+s317120103.682330
+e317120104.423974
+r1
+xCompileXIB
+x/Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.xib
+lSLF07#2@33"CompileXIB WantViewController.xib317120103#317120104#0(0"0(0#0#74"/Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.xib8623197888#604"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/WantViewController.nib" "/Users/lim6112j/Documents/iPhone Development/Barter/WantViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPlistFile "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Fake.plist" Fake.plist
+s317031923.976193
+e317031924.019108
+r1
+xCopyPlistFile
+x/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Fake.plist
+xFake.plist
+lSLF07#2@15"Copy Fake.plist317031923#317031924#0(0"0(0#0#62"/Users/lim6112j/Documents/iPhone Development/Barter/Fake.plist8672681248#402"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Fake.plist --outdir "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app"0#
+
+CCpResource build/Release-iphoneos/Barter.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s317028722.206588
+e317028722.215599
+r1
+xCpResource
+xbuild/Release-iphoneos/Barter.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist317028722#317028722#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8697326048#546"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app"0#
+
+CCpResource build/Release-iphoneos/Barter.app/photo1.jpg photo1.jpg
+s317028723.445491
+e317028723.457158
+r1
+xCpResource
+xbuild/Release-iphoneos/Barter.app/photo1.jpg
+xphoto1.jpg
+lSLF07#2@15"Copy photo1.jpg317028723#317028723#0(0"0(0#0#62"/Users/lim6112j/Documents/iPhone Development/Barter/photo1.jpg8703892000#521"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/lim6112j/Documents/iPhone Development/Barter/photo1.jpg" "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app"0#
+
+CCpResource build/Release-iphoneos/Barter.app/photo2.jpg photo2.jpg
+s317028723.425296
+e317028723.457018
+r1
+xCpResource
+xbuild/Release-iphoneos/Barter.app/photo2.jpg
+xphoto2.jpg
+lSLF07#2@15"Copy photo2.jpg317028723#317028723#0(0"0(0#0#62"/Users/lim6112j/Documents/iPhone Development/Barter/photo2.jpg8694570976#521"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/lim6112j/Documents/iPhone Development/Barter/photo2.jpg" "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app"0#
+
+CCpResource build/Release-iphoneos/Barter.app/photo3.jpg photo3.jpg
+s317028723.423633
+e317028723.456866
+r1
+xCpResource
+xbuild/Release-iphoneos/Barter.app/photo3.jpg
+xphoto3.jpg
+lSLF07#2@15"Copy photo3.jpg317028723#317028723#0(0"0(0#0#62"/Users/lim6112j/Documents/iPhone Development/Barter/photo3.jpg8689842848#521"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/lim6112j/Documents/iPhone Development/Barter/photo3.jpg" "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app"0#
+
+CCpResource build/Release-iphoneos/Barter.app/photo4.jpg photo4.jpg
+s317028723.454650
+e317028723.468823
+r1
+xCpResource
+xbuild/Release-iphoneos/Barter.app/photo4.jpg
+xphoto4.jpg
+lSLF07#2@15"Copy photo4.jpg317028723#317028723#0(0"0(0#0#62"/Users/lim6112j/Documents/iPhone Development/Barter/photo4.jpg8700397312#521"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/lim6112j/Documents/iPhone Development/Barter/photo4.jpg" "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app"0#
+
+CCpResource build/Release-iphoneos/Barter.app/photo5.jpg photo5.jpg
+s317028723.447532
+e317028723.468555
+r1
+xCpResource
+xbuild/Release-iphoneos/Barter.app/photo5.jpg
+xphoto5.jpg
+lSLF07#2@15"Copy photo5.jpg317028723#317028723#0(0"0(0#0#62"/Users/lim6112j/Documents/iPhone Development/Barter/photo5.jpg8703288160#521"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/lim6112j/Documents/iPhone Development/Barter/photo5.jpg" "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app"0#
+
+CCreateUniversalBinary "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Barter" normal "armv6 armv7"
+s317281482.328720
+e317281482.333193
+r1
+xCreateUniversalBinary
+x/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Barter
+xnormal
+xarmv6 armv7
+lSLF07#2@83"CreateUniversalBinary build/Release-iphoneos/Barter.app/Barter normal "armv6 armv7"317281482#317281482#0(0"0(0#0#63"/Users/lim6112j/Documents/iPhone Development/Barter/armv6 armv78669700768#576"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Barter" "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Barter" -output "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Barter"0#
+
+CDataModelVersionCompile "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Barter.momd" "/Users/lim6112j/Documents/iPhone Development/Barter/Barter.xcdatamodeld"
+s317028725.091992
+e317028725.158378
+r1
+xDataModelVersionCompile
+x/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Barter.momd
+x/Users/lim6112j/Documents/iPhone Development/Barter/Barter.xcdatamodeld
+lSLF07#2@89"DataModelVersionCompile build/Release-iphoneos/Barter.app/Barter.momd Barter.xcdatamodeld317028725#317028725#0(0"0(0#0#71"/Users/lim6112j/Documents/iPhone Development/Barter/Barter.xcdatamodeld8691098016#387"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc "/Users/lim6112j/Documents/iPhone Development/Barter/Barter.xcdatamodeld" "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Barter.momd"0#
+
+CGenerateDSYMFile "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app.dSYM" "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Barter"
+s317281482.333317
+e317281482.400211
+r1
+xGenerateDSYMFile
+x/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app.dSYM
+x/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Barter
+lSLF07#2@96"GenerateDSYMFile build/Release-iphoneos/Barter.app.dSYM build/Release-iphoneos/Barter.app/Barter317281482#317281482#0(0"0(0#0#92"/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Barter8667651104#408"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Barter" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app.dSYM"0#
+
+CLd "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Barter" normal armv6
+s317281482.274127
+e317281482.328594
+r1
+xLd
+x/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Barter
+xnormal
+xarmv6
+lSLF07#2@133"Link /Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Barter317281482#317281482#0(0"0(0#0#0"8672027456#956"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" -filelist "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Barter.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv6/Barter"0#
+
+CLd "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Barter" normal armv7
+s317281482.260886
+e317281482.319459
+r1
+xLd
+x/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Barter
+xnormal
+xarmv7
+lSLF07#2@133"Link /Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Barter317281482#317281482#0(0"0(0#0#0"8678264000#956"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" -filelist "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Barter.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Objects-normal/armv7/Barter"0#
+
+CProcessInfoPlistFile "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Info.plist" Barter-Info.plist
+s317028722.207652
+e317028722.216114
+r1
+xProcessInfoPlistFile
+x/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Info.plist
+xBarter-Info.plist
+lSLF07#2@25"Process Barter-Info.plist317028722#317028722#0(0"0(0#0#69"/Users/lim6112j/Documents/iPhone Development/Barter/Barter-Info.plist8695484416#624"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Barter-Info.plist -genpkginfo "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/ResourceRules.plist" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/Info.plist"0#
+
+CProcessPCH /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch.gch Barter_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s317028723.520646
+e317028725.091844
+r1
+xProcessPCH
+x/var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch.gch
+xBarter_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Barter_Prefix.pch317028723#317028725#0(0"0(0#0#69"/Users/lim6112j/Documents/iPhone Development/Barter/Barter_Prefix.pch8698460032#1793"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv7" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/lim6112j/Documents/iPhone Development/Barter/Barter_Prefix.pch" -o /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-adxmbbjnligydzctkgcodtvcrcao/Barter_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch.gch Barter_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317028723.518166
+e317028725.027917
+r1
+xProcessPCH
+x/var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch.gch
+xBarter_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Barter_Prefix.pch317028723#317028725#0(0"0(0#0#69"/Users/lim6112j/Documents/iPhone Development/Barter/Barter_Prefix.pch8699047552#1793"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-generated-files.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-own-target-headers.hmap" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-all-target-headers.hmap" -iquote "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter-project-headers.hmap" "-F/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/include" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources/armv6" "-I/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/lim6112j/Documents/iPhone Development/Barter/Barter_Prefix.pch" -o /var/folders/t1/t1v4O7onGBCgvkXcy4jf+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Barter_Prefix-dregjithinrfwyaqvxxtbgnrgvhb/Barter_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/lim6112j/Library/MobileDevice/Provisioning Profiles/98573A93-14A8-4A7F-B860-6AA40C007E27.mobileprovision" "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/embedded.mobileprovision"
+s317028727.478678
+e317028727.481021
+r1
+xProcessProductPackaging
+x/Users/lim6112j/Library/MobileDevice/Provisioning Profiles/98573A93-14A8-4A7F-B860-6AA40C007E27.mobileprovision
+x/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/embedded.mobileprovision
+lSLF07#2@196"ProcessProductPackaging "/Users/lim6112j/Library/MobileDevice/Provisioning Profiles/98573A93-14A8-4A7F-B860-6AA40C007E27.mobileprovision" build/Release-iphoneos/Barter.app/embedded.mobileprovision317028727#317028727#0(0"0(0#0#110"/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/embedded.mobileprovision8694742656#457"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/lim6112j/Library/MobileDevice/Provisioning Profiles/98573A93-14A8-4A7F-B860-6AA40C007E27.mobileprovision" -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter.xcent"
+s317028727.481122
+e317028727.484719
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter.xcent
+lSLF07#2@174"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/Barter.build/Release-iphoneos/Barter.build/Barter.xcent317028727#317028727#0(0"0(0#0#113"/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter.xcent8694059872#461"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/lim6112j/Documents/iPhone Development/Barter/build/Barter.build/Release-iphoneos/Barter.build/Barter.xcent"0#
+
+CTouch "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app"
+s317281482.400795
+e317281482.404443
+r1
+xTouch
+x/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app
+lSLF07#2@91"Touch /Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app317281482#317281482#0(0"0(0#0#0"8665292896#295"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app"0#
+
+CValidate "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app"
+s317281482.658428
+e317281482.808080
+r1
+xValidate
+x/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app
+o2011-01-21 14:44:42.681 Validation[4950:607] *** Warning: Defaulting to the standard codesign tool
+owarning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIconFile, CFBundleIconFiles, or provide a default Icon.png that is 57x57 (-19013)
+oUnable to validate your application. - (null)
+o
+lSLF07#2@42"Validate build/Release-iphoneos/Barter.app317281482#317281482#0(342"2011-01-21 14:44:42.681 Validation[4950:607] *** Warning: Defaulting to the standard codesign toolwarning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIconFile, CFBundleIconFiles, or provide a default Icon.png that is 57x57 (-19013)Unable to validate your application. - (null)1(22@187" iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIconFile, CFBundleIconFiles, or provide a default Icon.png that is 57x57 (-19013)317281482#18446744073709551615#0#0(6@0"317281482#0#0#0#0#0"0(0#0#85"/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app8683683840#404"    cd "/Users/lim6112j/Documents/iPhone Development/Barter"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation "/Users/lim6112j/Documents/iPhone Development/Barter/build/Release-iphoneos/Barter.app"0#
+
